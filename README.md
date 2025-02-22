@@ -1,2 +1,2 @@
-# 50-Discount-Landing-page
+# Fooddelish Landing page 
 My first landing page project practice
